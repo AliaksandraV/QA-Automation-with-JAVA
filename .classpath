@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Задание_10/src"/>
+	<classpathentry kind="src" path="Задание_11/src"/>
+	<classpathentry kind="src" path="Задание_2/src"/>
+	<classpathentry kind="src" path="Задание_3/src"/>
+	<classpathentry kind="src" path="Задание_4/src"/>
+	<classpathentry kind="src" path="Задание_5/src"/>
+	<classpathentry kind="src" path="Задание_6/src"/>
+	<classpathentry kind="src" path="Задание_7/src"/>
+	<classpathentry kind="src" path="Задание_8/src"/>
+	<classpathentry kind="src" path="Задание_9/src"/>
+	<classpathentry kind="src" path="HomeWork_1/src"/>
+	<classpathentry kind="src" path="HomeWork_2/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="HomeWork_1/bin"/>
+</classpath>
